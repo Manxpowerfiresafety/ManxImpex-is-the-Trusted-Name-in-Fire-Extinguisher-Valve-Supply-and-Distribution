@@ -7,7 +7,7 @@ Fire extinguisher valves are the critical control components that allow extingui
 <h2>Our Product Range</h2>
 At ManxImpex, we offer a comprehensive range of fire extinguisher valves to suit different types of extinguishers, including:<br>
 <ul><li>
-<li>ABC Valves<li>
-<li>ABC Small Handle Valves<li>
-<li>CE ABC Valves<li>
-<li>Modular  Valves<li>
+<li>ABC Valves</ul>
+<li>ABC Small Handle Valves</li>
+<li>CE ABC Valves</li>
+<li>Modular  Valves</li>
