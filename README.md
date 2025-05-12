@@ -6,8 +6,7 @@ ManxImpex is a leading supplier and distributor of high-quality fire extinguishe
 Fire extinguisher valves are the critical control components that allow extinguishers to release their fire-suppressing agents when needed. A faulty or substandard valve can result in a failure to operate, delayed discharge, or worse—an inability to stop a fire in its early stages. At ManxImpex, we emphasize quality because we understand that lives, assets, and reputations depend on these mechanisms working flawlessly every time.<br>
 <h2>Our Product Range</h2>
 At ManxImpex, we offer a comprehensive range of fire extinguisher valves to suit different types of extinguishers, including:<br>
-<ul><li>
-<li>ABC Valves</ul>
+<li>ABC Valves</li>
 <li>ABC Small Handle Valves</li>
 <li>CE ABC Valves</li>
 <li>Modular  Valves</li>
